@@ -1,0 +1,25 @@
+
+
+
+
+ActionAI------+------- Users -------+------- Cpp ------------|ActionAI: the commercial version
+			 |					   |
+			 |					   |------- Python ---------|
+			 |					   
+			 |					   
+			 |------- Developers --+------- Python ---------|ActionAI_model : Processes the stereoscopic clips to produce the training features 
+								   |                                         + utilities to convert FastPose and Resnet model to ONNX					   		 
+								   |
+								   |
+								   |------- Cpp ------------|ActionAI_Calibration : calibration tool for the stereoscopic cameras
+															|
+															|ActionAI_ClipRecorder : recording tool for the stereoscopic training videos
+															|
+															|ActionAI_ResNet_trainer : training of the ResNet18 network used for action recognition
+															
+															
+															
+															
+															
+															
+															
